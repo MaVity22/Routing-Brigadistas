@@ -1,6 +1,6 @@
+// Probando carga a repositorio Github
 import './App.css';
 import AgregarBrigadista from './components/AgregarBrigadista';
-import ListaBrigadistas from './components/ListarBrigadistas';
 import {
   BrowserRouter, Routes, Route,
 } from 'react-router-dom';
